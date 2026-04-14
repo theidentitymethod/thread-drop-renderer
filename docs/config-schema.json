@@ -1,0 +1,4 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "TODO: Define the locked config.json schema shared with thread-drop skill"
+}
