@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "project": "thread-drop",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "profile": {
+    "displayName": "Dudley Dixon",
+    "handle": "dudleydixon",
+    "verified": true,
+    "headshotPath": "./profile/headshot.jpg"
+  },
+  "theme": {
+    "mode": "dark",
+    "background": "#0A0A0A",
+    "cardBackground": "#000000",
+    "textPrimary": "#FFFFFF",
+    "textSecondary": "#71767B",
+    "accent": "#FFCC33",
+    "divider": "#2F3336",
+    "fontPrimary": "Chirp",
+    "fontFallback": "Arial, system-ui, sans-serif"
+  },
+  "canvas": {
+    "width": 1350,
+    "height": 1350,
+    "padding": 80
+  },
+  "thread": {
+    "topic": "Retention is a content problem, not a check-ins problem",
+    "totalTweets": 7,
+    "totalSlides": 7
+  },
+  "slides": [
+    {
+      "slideNumber": 1,
+      "type": "solo",
+      "purpose": "hook",
+      "tweets": [
+        {
+          "tweetNumber": 1,
+          "body": "Your content isn't just for new clients.\nYour current ones are watching.",
+          "characterCount": 73,
+          "image": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 2,
+      "type": "solo",
+      "purpose": "body",
+      "tweets": [
+        {
+          "tweetNumber": 2,
+          "body": "Every post you put out, your clients see it too.\nThey're not judging your hook.\nThey're asking one question: \"Is this still the coach I want to be associated with?\"",
+          "characterCount": 167,
+          "image": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 3,
+      "type": "solo",
+      "purpose": "body",
+      "tweets": [
+        {
+          "tweetNumber": 3,
+          "body": "Retention isn't a results problem.\nIt's an identity problem.\nAnd your content is where that identity gets reinforced or quietly killed.",
+          "characterCount": 142,
+          "image": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 4,
+      "type": "solo",
+      "purpose": "body",
+      "tweets": [
+        {
+          "tweetNumber": 4,
+          "body": "The moment your client sees your post and thinks \"that's my coach, hell yeah\" — retention just happened.\nThe moment they scroll past hoping their mates don't see it — they're already gone.",
+          "characterCount": 186,
+          "image": {
+            "source": "gemini",
+            "prompt": "Gritty editorial illustration of a muscular man looking at his phone on a gym floor at night, his expression intense and approving, lit by a single overhead gym light. Matte black and deep shadow palette with a single bold yellow accent on the phone screen glow. Moody, cinematic, slightly raw, not polished. Landscape orientation. No text, no logos, no faces that resemble real people.",
+            "path": null,
+            "alt": "Gym floor scene, client reacting to a coach's post on their phone"
+          }
+        }
+      ]
+    },
+    {
+      "slideNumber": 5,
+      "type": "solo",
+      "purpose": "body",
+      "tweets": [
+        {
+          "tweetNumber": 5,
+          "body": "Weak content doesn't just cost you leads.\nIt costs you the clients you already have.\nEvery generic post is a small withdrawal from their belief in you.",
+          "characterCount": 159,
+          "image": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 6,
+      "type": "solo",
+      "purpose": "body",
+      "tweets": [
+        {
+          "tweetNumber": 6,
+          "body": "Most coaches post to attract.\nThe best ones post to reinforce.\nSame content does both, but only if it makes your current clients sit up straighter, not cringe in the group chat.",
+          "characterCount": 172,
+          "image": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 7,
+      "type": "solo",
+      "purpose": "cta",
+      "tweets": [
+        {
+          "tweetNumber": 7,
+          "body": "Next post you write, ask one question:\nWill my current clients screenshot this and send it to a mate, or hope nobody they know sees it?\nThat's your retention strategy.",
+          "characterCount": 168,
+          "image": null
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "voice": "The Identity Method",
+    "author": "thread-drop skill",
+    "rendererVersion": ">=1.0"
+  }
+}
